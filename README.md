@@ -8,15 +8,16 @@ Supervision: Aaron Wetzler.
 
 ## Status
 
-**Coming soon.** This repository is being prepared as a historical student-project archive. Original source code, project documents and build instructions will be added as they are recovered and reviewed. It is not yet a runnable release.
+The [original eight-page project report](docs/report.pdf), dated October 27, 2013, has been recovered. **Source code coming soon:** the matching application code has not yet been located. This is a documentation archive, not a runnable release.
 
 ## Running
 
-No runnable source has been published in this repository yet. Platform requirements and setup instructions will be recorded from the original project files rather than guessed.
+The report describes an Android application for a Samsung Galaxy Beam, using its projector, a reflecting prism and OpenCV. Exact Android/OpenCV versions and build commands have not been established from the recovered material. No installation or compilation instructions are invented while the app source is missing.
 
 ## Links
 
 - [Project entry on Aaron Wetzler's website](https://twerdster.github.io/#campong)
+- [Original report](docs/report.pdf)
 
 ## Attribution and Updates
 
