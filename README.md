@@ -19,6 +19,9 @@ The report describes an Android application for a Samsung Galaxy Beam, using its
 - [Project entry on Aaron Wetzler's website](https://twerdster.github.io/#campong)
 - [Original report](docs/report.pdf)
 
+- [Project page](https://gip.cs.technion.ac.il/last-projects-2013-1.html)
+- [Demo](https://www.dropbox.com/s/i8cxxujm43ah5kh/Pong.mov)
+
 ## Attribution and Updates
 
 Original student and third-party attribution will be retained. No license for unrecovered source code is implied by this README. Original authors can open an issue to contribute updates or request corrections or removal of their material.
