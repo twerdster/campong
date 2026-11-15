@@ -10,7 +10,7 @@
 
 A historical camera/projector Pong prototype in which hand positions control projected paddles.
 
-Students: Rom Herschkovitz, [Nofar Carmeli](https://nofar.carme.li/).
+Students: [Rom Herschkovitz](https://www.linkedin.com/in/romherskovitz/), [Nofar Carmeli](https://nofar.carme.li/).
 
 Supervision: Aaron Wetzler.
 
@@ -26,7 +26,11 @@ On 2026-11-13, Nofar Carmeli supplied a [poster](original/CamPong-Poster.pptx), 
 
 Read the report and supplied documents for the algorithm, system layout and historical screenshots. Open the PPTX/DOCX files in a compatible presentation or document reader; embedded-video playback depends on the reader's WMV support. There is no software to install or run here. The report names Android, Eclipse and OpenCV but does not establish exact Android/OpenCV versions or a reproducible build procedure.
 
-The documents describe the historical prototype. The supplied YouTube video was identified by its title metadata; its content was not reviewed. Document inspection and viewing sampled frames of the embedded recording do not reproduce its operation. No build, camera/projector test, tracking-accuracy evaluation or latency benchmark was performed during recovery. The photograph above shows the historical setup; it is not a new validation result.
+The documents describe the historical prototype. The supplied YouTube video was identified by its title metadata; its content was not reviewed. Document inspection and viewing sampled frames of the embedded recording do not reproduce the prototype's operation. No build, camera/projector test, tracking-accuracy evaluation or latency benchmark was performed during recovery. The photograph above shows the historical setup; it is not a new validation result.
+
+## Updated source-recovery record (2026-11-15)
+
+Rom Herschkovitz confirmed permission to publish the project materials and supplied his LinkedIn profile and a source folder, noting that he did not know whether it was the latest version or whether it worked. The supplied folder contains an Android structured-light scanning application, not an identified Pong implementation. Its relationship to CamPong remains unconfirmed, so its code and binaries have not been added here. CamPong application source is still missing; no build or port is claimed. See the [recovery note](docs/SOURCE-RECOVERY.md).
 
 ## Links
 
@@ -41,6 +45,6 @@ The documents describe the historical prototype. The supplied YouTube video was 
 
 ## Attribution and reuse
 
-Names follow the archived project page; Nofar Carmeli's profile link is the website she supplied. On 2026-11-13, Nofar Carmeli confirmed that Aaron Wetzler could keep and publish the project materials and supplied her preferred website. This records her response only and adds no repository-wide software license. The original documents retain their authorship and any third-party terms. No license for unrecovered source code is implied by this README. Original authors can open an issue to contribute updates or request corrections or removal of their material.
+Names follow the archived project page. Both profile links were supplied by the respective authors. On 2026-11-13, Nofar Carmeli confirmed that Aaron Wetzler could keep and publish the project materials and supplied her preferred website. Rom Herschkovitz also confirmed permission to publish the materials on 2026-11-15 and supplied his LinkedIn profile. These responses add no repository-wide software license. The original documents retain their authorship and any third-party terms. No license for unrecovered source code is implied by this README. Original authors can open an issue to contribute updates or request corrections or removal of their material.
 
 Figure provenance: `assets/project-preview.jpg` is the original student-project photograph from the archived project page on Aaron Wetzler's website, copied without modification.

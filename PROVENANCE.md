@@ -1,6 +1,6 @@
 # CamPong material provenance
 
-Nofar Carmeli supplied the following historical project materials on 2026-11-13. The three Office files are stored under `original/` without content or metadata changes. The supplied report is byte-identical to the existing eight-page report dated October 27, 2013, so that file remains at its existing path. No application source was supplied. The supplied overview filename contains "IMVC"; this archive does not establish that it was submitted to or published at IMVC.
+Nofar Carmeli supplied the following historical project materials on 2026-11-13. The three Office files are stored under `original/` without content or metadata changes. The supplied report is byte-identical to the existing eight-page report dated October 27, 2013, so that file remains at its existing path. No application source was included in that collection. The supplied overview filename contains "IMVC"; this archive does not establish that it was submitted to or published at IMVC.
 
 | Archived file | Supplied filename | SHA-256 |
 | --- | --- | --- |
@@ -14,3 +14,7 @@ The poster has one slide; the presentation has 15 slides and an embedded 9.685-s
 The publication review inspected the eight report pages, two project-overview pages, poster and 15 presentation slides, plus Office text, notes, comments, relationships and embedded content. Thirteen frames from the embedded recording were inspected visually; ten cadence samples were also checked with OCR. The review found no private contact details or credentials in those inspected parts. It did not transcribe the audio, rebuild the application or reproduce tracking/latency measurements. The review does not establish a general license for third-party illustrations or other dependencies.
 
 Nofar confirmed permission for Aaron Wetzler to keep and publish the project materials and supplied her [preferred website](https://nofar.carme.li/) and a [public video link](https://www.youtube.com/watch?v=msWkridhFyQ). This records her response only and does not add a blanket software or document license. Raw correspondence and the shared-folder access key are not included. The existing student credits and photograph provenance remain in README.md.
+
+## Later source-folder inspection (2026-11-15)
+
+Rom Herschkovitz confirmed permission to publish the project materials and supplied his [LinkedIn profile](https://www.linkedin.com/in/romherskovitz/). He also supplied a source folder, noting that he did not know whether it was the latest version or whether it worked. The folder contains an Android structured-light scanning application rather than an identified Pong implementation. It has not been imported into this archive. See [docs/SOURCE-RECOVERY.md](docs/SOURCE-RECOVERY.md) for the bounded inspection result. Original project assets listed above remain byte-identical. Raw correspondence, shared-folder access keys, local configuration and the unconfirmed source archive remain private.
