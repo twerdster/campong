@@ -1,10 +1,10 @@
 # CamPong archival state
 
-Read this file, then SKILL.md, README.md, PROVENANCE.md and docs/SOURCE-
-RECOVERY.md before changes. This is the historical Rom Herschkovitz/Nofar Carmeli
-camera/projector Pong project supervised by Aaron Wetzler. No application source
-or executable is available in this repository, and no current-device build is
-verified.
+Read this file, then SKILL.md, README.md, PROVENANCE.md and
+docs/SOURCE-RECOVERY.md before changes. This is the historical Rom
+Herschkovitz/Nofar Carmeli camera/projector Pong project supervised by Aaron
+Wetzler. No application source or executable is available in this repository, and
+no current-device build is verified.
 
 The eight-page October 27, 2013 report and original project photograph remain
 unchanged. Nofar supplied three additional original files on 2026-11-13: a project
@@ -28,10 +28,10 @@ resource, configuration and script files match the separate Android 3D scanner
 archive; the two application Java classes do not match exactly. Authorship,
 version identity and relationship to CamPong remain unconfirmed. No supplied code,
 binary, local configuration, raw correspondence or shared-folder key was
-published. No supplied binary or script was executed. Keep CamPong's missing-
-source and unverified-build status; do not substitute an unrelated scanner or a
-newly invented game for recovered CamPong source. The public bounded result is
-docs/SOURCE-RECOVERY.md. The existing report, photograph and three Office
+published. No supplied binary or script was executed. Keep CamPong's
+missing-source and unverified-build status; do not substitute an unrelated scanner
+or a newly invented game for recovered CamPong source. The public bounded result
+is docs/SOURCE-RECOVERY.md. The existing report, photograph and three Office
 materials are unchanged.
 
 Review and synchronize this file and SKILL.md before committing. Keep mail,

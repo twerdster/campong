@@ -1,10 +1,10 @@
 # Maintain the CamPong archive
 
-Read SUMMARY.md first, then this file, README.md, PROVENANCE.md, docs/SOURCE-
-RECOVERY.md and the actual documents. Describe the reported algorithm and
-historical evidence; do not claim a build, modern Android compatibility, accuracy
-or latency without a recorded execution. A historical video is not a current
-runtime test.
+Read SUMMARY.md first, then this file, README.md, PROVENANCE.md,
+docs/SOURCE-RECOVERY.md and the actual documents. Describe the reported algorithm
+and historical evidence; do not claim a build, modern Android compatibility,
+accuracy or latency without a recorded execution. A historical video is not a
+current runtime test.
 
 Keep the report, photograph and three supplied original files unchanged unless a
 specific correction is authorized. Verify hashes before replacing assets. Inspect
