@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-17",
+  "implementation": "New camera/pointer Pong demonstration",
+  "browser": "Chrome on macOS; isolated automated profile",
+  "viewports_css_px": [
+    [
+      1280,
+      940
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "checks": [
+    "start and pause",
+    "reset scores",
+    "threshold control",
+    "390px layout has no horizontal overflow",
+    "no JavaScript page errors"
+  ],
+  "operator_checks": 4,
+  "limitations": "New code, not recovered source. No original Android/OpenCV, projector or prism integration is executed. Four synthetic foreground-median checks and actual browser controls were checked; physical camera tracking, projector alignment, accuracy and latency were not.",
+  "physical_devices_tested": false,
+  "live_audio_or_camera_tested": false,
+  "cross_browser_tested": false
+}

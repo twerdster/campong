@@ -1,28 +1,13 @@
-# Maintain the CamPong archive
+# Maintain CamPong
 
-Read SUMMARY.md first, then this file, README.md, PROVENANCE.md,
-docs/SOURCE-RECOVERY.md and the actual documents. Describe the reported algorithm
-and historical evidence; do not claim a build, modern Android compatibility,
-accuracy or latency without a recorded execution. A historical video is not a
-current runtime test.
+Read SUMMARY.md first, then this file, README.md, PROJECT_RECORD.md and relevant source/guides/validation.
 
-Keep the report, photograph and three supplied original files unchanged unless a
-specific correction is authorized. Verify hashes before replacing assets. Inspect
-document text, raster images, notes, relationships, embedded media and metadata
-before publishing further files. Keep raw correspondence and private shared-folder
-keys outside the repository. Ordinary historical author/template metadata is not
-new authorship or an execution result.
+Keep original documents/media byte-exact and PROVENANCE.md accurate. Do not execute/import the unrelated scanner, publish correspondence or shared-folder access keys, or equate a newly written game with recovered source. Read docs/SOURCE-RECOVERY.md before changing source status.
 
-Do not import the source folder supplied on 2026-11-15 as CamPong: inspection
-found a structured-light scanning application, with no identified Pong game. Its
-authorship, version identity and relationship to CamPong remain unconfirmed. Keep
-the supplied source archive private and unimported. Neither a scanner build nor a
-newly written Pong game would validate the original camera/projector prototype.
-Preserve that limit in README and recovery records; do not label historical media
-as new runtime proof.
+## Documentation and demo workflow
 
-Record individual permission scopes and preferred public profiles accurately. Do
-not infer source availability or a blanket license from archival permission.
-Preserve all existing credits and third-party terms. Check Markdown, images and
-relative links, then synchronize SUMMARY.md and this file before every commit. Use
-Aaron Wetzler's canonical commit identity and normal guarded pushes.
+Keep README brief: project purpose, author/supervisor credits, current progress, one factual visual, Updated demo and linked setup/evidence/rights. Preserve original work and distinguish recovered execution, new implementations, recorded playback and illustrative reconstructions. Long commands, conversion issues and logs belong in linked guides. Existing updated-guide heading anchors must keep working. The user authorized shortening the root README on 2026-11-17; PROJECT_RECORD.md retains its prior contents, and existing original/ material remains unchanged.
+
+For static demos serve `updated/demo/` over localhost or HTTPS; use Python 3’s HTTP server with that directory. Check real controls, downloads where available, failure handling and desktop/phone-width layout. Use updated/demo/VALIDATION.json for recorded scope and updated/demo/README.md for exact commands. Physical/live-camera/microphone and cross-browser results must not be inferred from desktop automation. Existing native/model apps keep their own build/test/deploy workflows.
+
+When Claude review is requested, invoke it on the actual draft/facts, apply useful feedback after checking the code and retain a truthful review record. Before every commit reread/synchronize SUMMARY.md and this file, check links/images/Markdown and original hashes/pins, inspect the diff and staged files, preserve licensing/attribution and use Aaron Wetzler’s canonical commit identity. Publish normally; never rewrite history without explicit authorization. No private correspondence, access keys, student identifiers or machine-specific setup belongs in public files.
